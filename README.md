@@ -1,0 +1,1 @@
+It is a Sample Digital Payment Application , that was used send money to other accounts i have used Node , React for the purpose of development
